@@ -205,9 +205,6 @@ The system provides detailed explanations for its assessments, helping users und
 3. **WHOIS errors**: Some domains may have restricted registration data
 4. **SSL errors**: Corporate firewalls may interfere with certificate validation
 
-### Support
-For bugs and feature requests, please use the [GitHub Issues](https://github.com/midhunshabu/utds-phishing-detector/issues) page.
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
