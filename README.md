@@ -152,8 +152,6 @@ UTDS_Project/
 
 ## 🛠️ Development
 
-### Contributing
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### Building from Source
 ```bash
@@ -208,7 +206,7 @@ The system provides detailed explanations for its assessments, helping users und
 4. **SSL errors**: Corporate firewalls may interfere with certificate validation
 
 ### Support
-For bugs and feature requests, please use the [GitHub Issues](https://github.com/yourusername/utds-phishing-detector/issues) page.
+For bugs and feature requests, please use the [GitHub Issues](https://github.com/midhunshabu/utds-phishing-detector/issues) page.
 
 ## 📜 License
 
@@ -221,13 +219,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Matplotlib** for advanced data visualization
 - **Open-source contributors** to the dependent libraries
 - **Cybersecurity researchers** for phishing detection methodologies
-
-## 📞 Contact
-
-**Developer**: MIDHUN SHABU  
-**Email**: midhunshabu18102004@gmail.com
-**GitHub**: GITHUB (https://github.com/midhunshabu)  
-**Project Link**: UTDS (https://github.com/midhunshabu/UTDS-url-threat-detection-system)
 
 ---
 
